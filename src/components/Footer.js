@@ -64,7 +64,7 @@ function Footer() {
                     </div>
                     <small className='website-rights'>David Chen © 2022</small>
                     <div className='social-icons'>
-                        <Link className='social-icon-link facebook' to='facebook.com' target='_black' aria-label="Facebook">
+                        <Link className='social-icon-link facebook' to='https://www.facebook.com/david.chen.71465/' target='_black' aria-label="Facebook">
                             <i className='fab fa-facebook-f'></i>
                         </Link>
                         <Link className='social-icon-link instagram' to='/' target='_black' aria-label="Instagram">
