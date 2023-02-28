@@ -19,7 +19,7 @@ function HeroSection() {
             </Button>
             
         </div>
-        <p> Under Contruction </p>
+        <p> Under Construction </p>
     </div>
     )
 }

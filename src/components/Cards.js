@@ -23,13 +23,13 @@ function Cards() {
                     </ul>
                     <ul className='cards__items'>
                         <CardItem 
-                        src={img1} text="Head shots" label="Groom" path='/products'
+                        src={img1} text="Head Shots" label="Groom" path='/products'
                         />
                         <CardItem 
-                        src={img4} text="Catch tours of Tokyo" label="Services" path='/services'
+                        src={img4} text="Catch Tours of Tokyo" label="Services" path='/services'
                         />
                         <CardItem 
-                        src={img5} text="Find 5 star Hotels" label="Lodging" path='/services'
+                        src={img5} text="Find 5-Star Hotels" label="Lodging" path='/services'
                         />
                     </ul>
                 </div>
